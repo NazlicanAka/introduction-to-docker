@@ -1,4 +1,4 @@
-# Introduction to Docker - Training Materials Repository
+# Introduction to Docker - Training Materials Repository 
 
 This repository contains hands-on examples, exercises, and sample projects for learning Docker from beginner to advanced level.
 
